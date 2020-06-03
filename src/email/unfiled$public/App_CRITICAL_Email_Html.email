@@ -1,9 +1,0 @@
-<pre style="font-family:monospace">
-An application CRITICAL error has occurred. 
-
-Log record: 
-{!ApplicationLog__c.Link} 
-
-Message: 
-{!ApplicationLog__c.Message__c}
-</pre>
