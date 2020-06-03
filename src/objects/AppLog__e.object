@@ -123,5 +123,5 @@
     </fields>
     <label>AppLog</label>
     <pluralLabel>AppLogs</pluralLabel>
-    <publishBehavior>PublishImmediately</publishBehavior>
+    <publishBehavior>PublishAfterCommit</publishBehavior>
 </CustomObject>
